@@ -18,6 +18,5 @@ https://docs.google.com/presentation/d/1LjWBWoILj2j2rIrgY5XnBenjO9C9euXRZ3fszewf
 
 Link com o material da Aula 04 - Comandos - Parte 1:
 https://docs.google.com/presentation/d/1zHfBONy6kuXgIURcuh8NiZw1lWn5HwD21gYUnyIuIsk/edit?usp=sharing
-
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1jhgTVT6vQo04Jd97ifrcUhbP5fxJFjaJ

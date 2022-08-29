@@ -20,3 +20,8 @@ Link com o material da Aula 04 - Comandos - Parte 1:
 https://docs.google.com/presentation/d/1zHfBONy6kuXgIURcuh8NiZw1lWn5HwD21gYUnyIuIsk/edit?usp=sharing
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1jhgTVT6vQo04Jd97ifrcUhbP5fxJFjaJ
+
+Link com o material da Aula 05 - Comandos - Parte 2:
+https://docs.google.com/presentation/d/1JD_tpyZkyIAHCHiuLdot169Ft6VrY5Opk7uc5sc0Wbg/edit?usp=sharing
+Scripts para utilização na aula:
+https://drive.google.com/drive/folders/1jhgTVT6vQo04Jd97ifrcUhbP5fxJFjaJ

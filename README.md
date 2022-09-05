@@ -25,3 +25,8 @@ Link com o material da Aula 05 - Comandos - Parte 2:
 https://docs.google.com/presentation/d/1JD_tpyZkyIAHCHiuLdot169Ft6VrY5Opk7uc5sc0Wbg/edit?usp=sharing
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1jhgTVT6vQo04Jd97ifrcUhbP5fxJFjaJ
+
+Link com o material da Aula 06 - Aula 06 - Comandos (DQL), Chaves e Relacionamento:
+https://docs.google.com/presentation/d/1s7AOEaJc2imjaCsM2wYmaOHACGp_jFK5ThhgULR_u_o/edit?usp=sharing
+Scripts para utilização na aula:
+https://drive.google.com/drive/folders/1as-gD5wYAGeRwsicqYO2CLQ9DAQyQIBV

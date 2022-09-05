@@ -28,6 +28,8 @@ https://drive.google.com/drive/folders/1jhgTVT6vQo04Jd97ifrcUhbP5fxJFjaJ
 
 Link com o material da Aula 06 - Aula 06 - Comandos (DQL), Chaves e Relacionamento:
 https://docs.google.com/presentation/d/1s7AOEaJc2imjaCsM2wYmaOHACGp_jFK5ThhgULR_u_o/edit?usp=sharing
+
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1as-gD5wYAGeRwsicqYO2CLQ9DAQyQIBV
+
 Backup file:  https://drive.google.com/drive/folders/1AX9od_F7SXBO1SJstQvCC4DR3bYYueQj?usp=sharing 

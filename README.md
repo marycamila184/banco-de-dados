@@ -29,8 +29,11 @@ https://drive.google.com/drive/folders/1jhgTVT6vQo04Jd97ifrcUhbP5fxJFjaJ
 Link com o material da Aula 06 - Aula 06 - Comandos (DQL), Chaves e Relacionamento:
 https://docs.google.com/presentation/d/1s7AOEaJc2imjaCsM2wYmaOHACGp_jFK5ThhgULR_u_o/edit?usp=sharing
 
-Link com o material da Aula 07 - Aula 07 - Modelo Lógico e Relacionamentos:
+Link com o material da Aula 07 - Aula 07 - Modelo Lógico e Relacionamentos - Parte 1:
 https://docs.google.com/presentation/d/17NDpYpt_JYiz3x6B7eZBYzl71PvNDEh5aEMqmNMPwCY/edit?usp=sharing
+
+Link com o material da Aula 07 - Aula 08 - Modelo Lógico e Relacionamentos - Parte 2:
+https://docs.google.com/presentation/d/1_U8Vnvaw3dxU80ZXVtPw57rSw4iFFgiKJKI4sD1p7RU/edit?usp=sharing
 
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1as-gD5wYAGeRwsicqYO2CLQ9DAQyQIBV

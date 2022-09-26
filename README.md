@@ -35,6 +35,9 @@ https://docs.google.com/presentation/d/17NDpYpt_JYiz3x6B7eZBYzl71PvNDEh5aEMqmNMP
 Link com o material da Aula 08 - Modelo Lógico e Relacionamentos - Parte 2:
 https://docs.google.com/presentation/d/1_U8Vnvaw3dxU80ZXVtPw57rSw4iFFgiKJKI4sD1p7RU/edit?usp=sharing
 
+Link com o material da Aula 09 - Tipos, Busca em Tabelas com Chaves Estrangeiras e Revisão:
+https://docs.google.com/presentation/d/17BxVN2cRs3CrAgxtvtGVBxf-_waEvwTaDfrJWTLWwJc/edit?usp=sharing
+
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1as-gD5wYAGeRwsicqYO2CLQ9DAQyQIBV
 

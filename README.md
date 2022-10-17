@@ -38,7 +38,12 @@ https://docs.google.com/presentation/d/1_U8Vnvaw3dxU80ZXVtPw57rSw4iFFgiKJKI4sD1p
 Link com o material da Aula 09 - Tipos, Busca em Tabelas com Chaves Estrangeiras e Revisão:
 https://docs.google.com/presentation/d/17BxVN2cRs3CrAgxtvtGVBxf-_waEvwTaDfrJWTLWwJc/edit?usp=sharing
 
+Link com o material da Aula 10 - Funções e Busca em Tabelas:
+https://docs.google.com/presentation/d/1ndZCEJXstuvTK4_DngQfRSQdHfIlCcgwlfyCJghKm3Y/edit?usp=sharing
+
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1as-gD5wYAGeRwsicqYO2CLQ9DAQyQIBV
 
 Backup file:  https://drive.google.com/drive/folders/1AX9od_F7SXBO1SJstQvCC4DR3bYYueQj?usp=sharing 
+
+Planilha com as notas: https://docs.google.com/spreadsheets/d/1FN1jlYENr8rqx5X5ajFL6CSasTlTMFcx-idPvFhyji8/edit?usp=sharing

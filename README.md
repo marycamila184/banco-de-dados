@@ -40,6 +40,7 @@ https://docs.google.com/presentation/d/17BxVN2cRs3CrAgxtvtGVBxf-_waEvwTaDfrJWTLW
 
 Link com o material da Aula 10 - Funções e Busca em Tabelas:
 https://docs.google.com/presentation/d/1ndZCEJXstuvTK4_DngQfRSQdHfIlCcgwlfyCJghKm3Y/edit?usp=sharing
+Scripts: https://drive.google.com/drive/folders/1jVRGKJhp2DM-3tOpOur-dxi2lnvrQY_O
 
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1as-gD5wYAGeRwsicqYO2CLQ9DAQyQIBV

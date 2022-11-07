@@ -46,6 +46,10 @@ Link com o material da Aula 11 - Busca em Tabelas com Chaves Estrangeiras - Part
 https://docs.google.com/presentation/d/1-8jhXJ8HObMu6v_96jxLikl5Yf9HQCbbpge8TtZobGo/edit?usp=sharing
 Scripts: https://drive.google.com/drive/folders/1jVRGKJhp2DM-3tOpOur-dxi2lnvrQY_O
 
+Link com o material da Aula 11 - Formas Normais, Views e Triggers: 
+https://docs.google.com/presentation/d/192d6i4-wa9w01N2ZlB44QnJ1-hIlgYnaEhUmxuoRK1Q/edit?usp=sharing
+Scripts: https://drive.google.com/drive/folders/1jVRGKJhp2DM-3tOpOur-dxi2lnvrQY_O
+
 Scripts para utilização na aula:
 https://drive.google.com/drive/folders/1as-gD5wYAGeRwsicqYO2CLQ9DAQyQIBV
 
